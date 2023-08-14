@@ -1,0 +1,4 @@
+1.open calculator.exe
+2.fill 1st number and 2nd number
+3.Press button +,-,*,/
+4.Clear button for clear all field
